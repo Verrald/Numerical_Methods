@@ -25,7 +25,7 @@ pip install sympy numpy
 
 ## Cara Instalasi
 
-git clone https://github.com/Verrald/newton-raphson-solver.git
+git clone https://github.com/Verrald/Numerical_Methods_test
 cd newton-raphson-solver
 
 ## Cara Penggunaan
