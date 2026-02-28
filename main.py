@@ -21,7 +21,7 @@ def newton_raphson(x0, tol=1e-6, max_iter=100, mode='tolerance'):
     x = x0
     iterasi = 0
     
-    print(f"{'Iter':<6} {'x':<15} {'f(x)':<15} {'Δx':<15}")
+    print(f"{'Iterasi':<6} {'x':<15} {'f(x)':<15} {'Δx':<15}")
     print("-" * 50)
     
     while True:
