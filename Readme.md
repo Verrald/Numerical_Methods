@@ -1,6 +1,6 @@
 # Numerical Methods
 
-Kumpulan implementasi metode numerik menggunakan Python, dibuat sebagai tugas mata kuliah **Metode Numerik (CISE301)** — Universitas Gadjah Mada.
+Kumpulan implementasi metode numerik menggunakan Python, dibuat sebagai tugas mata kuliah **Komputasi Numeris** — Universitas Gadjah Mada.
 
 ---
 
