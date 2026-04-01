@@ -42,7 +42,7 @@ python main.py
 
 ## Informasi
 
-- Nama: Haryo Setiawan
+- Nama: Muhammad Haryo Setiawan
 - NIM: 25/558273/PTK/16529
 - Mata Kuliah: Komputasi Numeris
 - Dosen Pengampu: Ir. Roni Irnawan, S.T., M.Sc., Ph.D., SMIEEE.
