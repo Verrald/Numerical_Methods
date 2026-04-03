@@ -101,6 +101,9 @@ jupyter notebook Bisection.ipynb
 
 ---
 
+## Disclaimer
+Beberapa proses tidak tertampil di branch main, tapi ada di dalam brach yang ada di repository ini, hal ini terjadi karena kesalahan saat awal membuat folder, harapan ingin membuat folder namun malah jadi membuat branch baru, sehingga terlihat kontribusi (history commits) tidak lengkap. untuk konfirmasi bisa lihat Brach yang ada (Bisection, Gauss_Method, dan Newton_Raphson_Method), terima kasih.
+
 ## Informasi
 
 - Nama: Muhammad Haryo Setiawan
